@@ -1,0 +1,23 @@
+{
+  "visual": {
+    "name": "cardKPI",
+    "displayName": "cardKPI",
+    "guid": "cardKPI",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Card KPI",
+    "supportUrl": "asd",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "3.6.0",
+  "author": {
+    "name": "Max",
+    "email": "mdsedov@vyatsu.ru"
+  },
+  "assets": {},
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
